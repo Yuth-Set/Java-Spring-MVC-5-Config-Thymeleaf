@@ -1,0 +1,3 @@
+com\khmerside\tutorial\spring\config\MvcWebApplicationInitializer.class
+com\khmerside\tutorial\spring\config\MvcWebConfig.class
+com\khmerside\tutorial\spring\controller\HomeCntr.class
